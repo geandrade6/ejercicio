@@ -426,6 +426,7 @@
 "Assets/Scripts/Gameplay/PlayerSpawn.cs"
 "Assets/Scripts/Gameplay/PlayerStopJump.cs"
 "Assets/Scripts/Gameplay/PlayerTokenCollision.cs"
+"Assets/Scripts/holaMundo.cs"
 "Assets/Scripts/Mechanics/AnimationController.cs"
 "Assets/Scripts/Mechanics/DeathZone.cs"
 "Assets/Scripts/Mechanics/EnemyController.cs"
